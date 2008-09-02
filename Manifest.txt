@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/contact_siphon
+lib/contact_siphon.rb
+test/test_contact_siphon.rb
